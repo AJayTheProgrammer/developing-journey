@@ -1,5 +1,5 @@
 ﻿//AStar
-//Student name: Anthony Jordan
+//Name: Anthony Jordan
 
 using System;
 using System.Collections.Generic;
